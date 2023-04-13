@@ -90,7 +90,7 @@ function App() {
       {/* about me button */}
 
             <div className="about">
-            <a href="https://pranalilahoti.github.io/portfolio/#/" target='_blank'><button>About me</button></a>
+            <a href="https://me-pankaj.github.io/portfolio/" target='_blank'><button>About me</button></a>
             </div>
     
           </div>
